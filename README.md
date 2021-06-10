@@ -22,5 +22,5 @@ I'm also working to showcase my skills by publishing my personal website! I plan
 <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="twitter button" width="28px"/>
 </a> &nbsp&nbsp
 <a href="mailto:devinmilroy@gmail.com" target="_blank" rel="nofollow">
-<img src="https://img-premium.flaticon.com/png/512/561/561127.png?token=exp=1622568859~hmac=22d47b4c110b9c0bb23bb5ec28d72bce" alt="email button" width="28px" /> 
+<img src="http://simpleicon.com/wp-content/uploads/mail-5.png" alt="email button" width="28px" /> 
 </a>
